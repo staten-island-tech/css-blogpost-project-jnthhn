@@ -5,8 +5,23 @@ h1{
     font-style: normal;
   }
 body{
-    background-color: rgb(4, 31, 106);
+    background-color: rgb(13, 29, 55);
 }
 .text{
     color: white;
+}
+.blogpost{
+    width: 600px;
+    height: 1000px;
+    background-color: rgb(13, 29, 55);
+    margin: 1px auto; /*margin X auto centers objects */
+    padding: 30px;
+    border: 1px solid white;
+}
+#posts{
+    width: 550px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    margin: 100px auto; /*margin X auto centers objects */
+    padding: 30px;
 }
