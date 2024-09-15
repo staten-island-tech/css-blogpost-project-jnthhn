@@ -1,34 +1,72 @@
-h1{
-    text-align: left;
-    font-family: "Kanit", sans-serif;
-    font-weight: 800;
-    font-style: normal;
-  }
-body{
-    background-color: rgb(13, 29, 55);
+h1 {
+  position: absolute;
+  margin-left: 23%;
+  width: 10px;
+  font-family: "Kanit", sans-serif;
+  font-weight: 500;
+  font-style: normal;
 }
-.text{
+
+body {
+  background-color: rgb(13, 29, 55);
+}
+
+.text {
+  color: white;
+}
+
+.feed {
+  position: absolute;
+  margin-left: 32%;
+  padding-left: 25px;
+  border: 2px solid rgb(43, 54, 71);
+  width: 45%;
+  height: fit-content;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <300>;
+  font-style: normal;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 200px;
+}
+.filter {
     color: white;
+    text-align: center;
+    margin-bottom: 200px;
 }
-.blogpost{
-    width: 600px;
-    height: 1000px;
-    background-color: rgb(13, 29, 55);
-    margin: 1px auto; /*margin X auto centers objects */
-    padding: 30px;
-    border: 1px solid white;
+span{
+    margin-left: 125px;
 }
-.posts{
-    width: 550px;
-    height: 300px;
-    background-color: rgb(255, 255, 255);
-    margin: 100px auto; /*margin X auto centers objects */
-    padding: 30px;
+.lostboy22{
+    padding: 10px;
+    margin: auto;
+    background-color: white;
+    width: 700px;
+    height: 500px;
+    font-size: 42px;
 }
-#posts1{
-    width: 550px;
-    height: 400px;
-    background-color: rgb(255, 255, 255);
-    margin: 100px auto; /*margin X auto centers objects */
-    padding: 30px;
+.dazednconfused99{
+    padding-bottom: 150px;
+    margin: auto;
+    background-color: white;
+    width: 700px;
+    height: 500px;
+    font-size: 42px;
+}
+.lostinmyhead_23{
+    padding-bottom: 150px;
+    margin: auto;
+    background-color: white;
+    width: 700px;
+    height: 500px;
+    font-size: 42px;
+}
+.d1fumbler12{
+    padding-bottom: 500px;
+    margin: auto;
+    background-color: white;
+    width: 700px;
+    height: 500px;
+    font-size: 42px;
 }
