@@ -31,42 +31,33 @@ body {
   gap: 200px;
 }
 .filter {
-    color: white;
-    text-align: center;
-    margin-bottom: 200px;
+  color: white;
+  text-align: center;
+  margin-bottom: 200px;
 }
-span{
-    margin-left: 125px;
+span {
+  margin-left: 125px;
 }
-.lostboy22{
-    padding: 10px;
-    margin: auto;
-    background-color: white;
-    width: 700px;
-    height: 500px;
-    font-size: 42px;
+.post{
+  margin: auto;
+  background-color: rgb(60, 71, 87);
+  width: 700px;
+  height: 500px;
+  font-size: 42px;
+  color: white;
 }
-.dazednconfused99{
-    padding-bottom: 150px;
-    margin: auto;
-    background-color: white;
-    width: 700px;
-    height: 500px;
-    font-size: 42px;
+#lostboy22 {
+  padding: 10px;
 }
-.lostinmyhead_23{
-    padding-bottom: 150px;
-    margin: auto;
-    background-color: white;
-    width: 700px;
-    height: 500px;
-    font-size: 42px;
+#dazednconfused99 {
+  padding-bottom: 150px;
 }
-.d1fumbler12{
-    padding-bottom: 500px;
-    margin: auto;
-    background-color: white;
-    width: 700px;
-    height: 500px;
-    font-size: 42px;
+#lostinmyhead_23 {
+  padding-bottom: 150px;
+}
+#d1fumbler12 {
+  padding-bottom: 500px;
+}
+a{
+  color: white;
 }
