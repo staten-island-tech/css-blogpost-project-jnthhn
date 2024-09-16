@@ -39,6 +39,7 @@ span {
   margin-left: 125px;
 }
 .post{
+  border: 10px solid rgb(9, 31, 68);
   margin: auto;
   background-color: rgb(60, 71, 87);
   width: 700px;
